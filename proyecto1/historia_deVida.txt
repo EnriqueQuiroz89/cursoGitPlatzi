@@ -1,10 +1,14 @@
+AHORA PORBARE3 EL COMANDO git reset HEAD
+
+
+
 
 agrego la primer lonea para notar los cambios
 
 Es quia es la mejor
 historia de vida
 
-Es una pitulo muy raro en una vida
+Es una capitulo muy raro en una vida
 pero es el aprendizade de tgithub
 
 
